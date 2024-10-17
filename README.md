@@ -55,7 +55,6 @@ print(f'Mean Squared Error (MSE): {mse}')
 ```
 
 ## Output:
-
 ![image](https://github.com/user-attachments/assets/edd20ca5-f4e8-4bbf-87f4-3c17aabf686f)
 ![image](https://github.com/user-attachments/assets/680bf797-806c-4312-b833-6342ca7190ee)
 ![image](https://github.com/user-attachments/assets/19fb9e8e-1e38-4b3b-be7b-43e1f80179fc)
